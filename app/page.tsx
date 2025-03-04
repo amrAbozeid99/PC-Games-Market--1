@@ -27,7 +27,7 @@ export default function Home() {
 
 
 <HomeGames />
-<h1>123</h1>
+<h1>1234</h1>
 <div style={{width:'100%',display:'flex',alignItems:'center',justifyContent:'center',color:'gold',fontSize:'15px',padding:'10px',background:'black',margin:' 10px 0px 0px 0px'}}>
 © 2025 <a href="https://amr-apozeid-portfolio.web.app/" target="-blank">Amr AboZeid</a>. جميع الحقوق محفوظة.
 </div>
